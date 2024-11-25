@@ -98,7 +98,7 @@ document.cookie="choise="+statusIzbor+";expires="+datum.toGMTString();
 
 // dinamicki nav meni
 let nizLinkTekst = ["Početna", "O Nama", "Vesti", "Team", "Kontakt"];
-let nizLinkHref = ["#home", "#about", "#news", "#team","#kontakt","https://sandraoraovcicportfolio.000webhostapp.com/index.html","../DokumentacijaVelmoze.pdf"];
+let nizLinkHref = ["#home", "#about", "#news", "#team","#kontakt"];
 
 let divNavMeni = document.querySelector(".nav-menu");
 
